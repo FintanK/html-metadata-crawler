@@ -8,7 +8,6 @@ This application uses a list of website URLs to find site metadata and related c
 - JSON Linked Data
 - Microsoft Tiles Metadata
 - IOS Icons
--
 
 
 Add any required sites to sites.txt in the root directory.
