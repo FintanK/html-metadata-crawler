@@ -1,0 +1,33 @@
+[
+  {
+    "image": "http://cdn.sixrevisions.com/ui/favicons/apple-touch-icon-152.png",
+    "description": "Six Revisions publishes web design tutorials, news, and articles.",
+    "id": "",
+    "title": "",
+    "categoryId": "web-development"
+  },
+  {
+    "image": "http://www.crownmountainmovers.com/wp-content/uploads/2015/10/arrow-right1.png",
+    "description": "The JavaScript blog.",
+    "id": "",
+    "title": "",
+    "categoryId": "web-development",
+    "url": "http://dailyjs.com/rss/"
+  },
+  {
+    "image": "http://55.media.tumblr.com/avatar_21babec3285d_128.png",
+    "description": "Your daily dose of design inspiration.",
+    "id": "",
+    "title": "",
+    "categoryId": "web-development",
+    "url": "http://littlebigdetails.com/rss"
+  },
+  {
+    "image": "http://www.crownmountainmovers.com/wp-content/uploads/2015/10/arrow-right1.png",
+    "description": "24 ways is the advent calendar for web geeks. Each day throughout December we publish a daily dose of web design and development goodness to bring you all a little Christmas cheer.",
+    "id": "",
+    "title": "",
+    "categoryId": "web-development",
+    "url": "http://feeds.feedburner.com/24ways"
+  }
+]
